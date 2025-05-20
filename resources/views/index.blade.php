@@ -110,6 +110,10 @@
             margin-top: 10px;
             text-align: center;
         }
+        a{
+            color:white;
+            text-decoration: none;
+        }
     </style>
     <div class="login-container">
         <form id="loginForm" class="login-form">
