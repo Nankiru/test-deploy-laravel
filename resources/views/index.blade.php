@@ -126,7 +126,7 @@
                 <span class="toggle-password" onclick="togglePassword()">👁️</span>
             </div>
 
-            <button type="submit">Login</button>
+            <button type="submit"><a href="{{ url('dashboard') }}">Login</a></button>
             <p class="error-message" id="errorMessage"></p>
         </form>
     </div>
