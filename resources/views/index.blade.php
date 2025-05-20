@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Modern Login Form</title>
+    <title> Login </title>
     <link rel="stylesheet" href="style.css" />
 </head>
 
@@ -18,7 +18,7 @@
 
         body {
             height: 100vh;
-            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            /* background: linear-gradient(135deg, #1e3c72, #2a5298); */
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
             justify-content: center;
